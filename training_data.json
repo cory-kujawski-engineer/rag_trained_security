@@ -1,0 +1,8 @@
+[
+    {
+        "text": "Q: What are common web application security vulnerabilities?\nA: Common web application security vulnerabilities include:\n1. SQL Injection (SQLi)\n2. Cross-Site Scripting (XSS)\n3. Cross-Site Request Forgery (CSRF)\n4. Broken Authentication\n5. Security Misconfiguration\n6. Sensitive Data Exposure\n7. XML External Entity (XXE)\n8. Broken Access Control\n9. Insecure Deserialization\n10. Using Components with Known Vulnerabilities"
+    },
+    {
+        "text": "Q: How can you prevent SQL injection attacks?\nA: To prevent SQL injection attacks:\n1. Use Parameterized Queries\n2. Input Validation and Sanitization\n3. Escape Special Characters\n4. Use ORMs (Object-Relational Mapping)\n5. Principle of Least Privilege\n6. Regular Security Testing\n7. Use Stored Procedures\n8. Keep Software Updated\n9. Use Web Application Firewalls\n10. Implement Error Handling"
+    }
+]
