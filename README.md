@@ -102,11 +102,9 @@ Each model variant has specific configurations for:
 2. Create a feature branch
 3. Submit a pull request with detailed description
 
-## License
-[Specify your license here]
 
 ## Contact
-[Your contact information]
+Cory Kujawski cory@cyberhumint.com
 
 ## Acknowledgments
 - Qwen model team
